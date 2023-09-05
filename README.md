@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [Mitochondria](https://github.com/Senraasb/Mitochondria-site)
 
-- 📫 Want to reach <a href="Barnes.Ashantee24@outlook.com"> me?</a>
+- 📫 Want to reach <a href="mailto: Barnes.Ashantee24@outlook.com"> me?</a>
 - ⚡ Fun fact **I have a terrible tendency of starting projects and not finishing them.**
 - ⚡ This github serves as the dumping ground for those projects. 😉
 <h3 align="left">Connect with me:</h3>
